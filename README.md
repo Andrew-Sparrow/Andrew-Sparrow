@@ -15,6 +15,6 @@
  - Email - 8911102@gmail.com
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-sparrow-pechersky/)
- [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:8911102@gmail.com)
+
  [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&labelColor=0e76a&logo=telegram&logoColor=blue)](https://t.me/andrewpechers)
  
